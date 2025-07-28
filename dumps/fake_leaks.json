@@ -1,0 +1,12 @@
+[
+  {
+    "email": "abc@gmail.com",
+    "leaked_platform": "Facebook",
+    "date": "2021-06-01"
+  },
+  {
+    "phone": "+918888888888",
+    "leaked_platform": "Instagram",
+    "date": "2023-01-05"
+  }
+]

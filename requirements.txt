@@ -1,0 +1,6 @@
+flask
+beautifulsoup4
+pymongo
+flask_sqlalchemy
+python-dotenv
+
